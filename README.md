@@ -5,9 +5,9 @@ By analyzing past sales data with Simple Linear Regression, the system can predi
 when stock may run out, and provide timely low-stock alerts. In addition, it uses the Apriori algorithm to identify products that are frequently purchased together and offers reports and visualizations that support smarter business decisions.
 
 # Tech stack
-Python
-Streamlit
-SQLite3
+1. Python
+2. Streamlit
+3. SQLite3
 
 # Status
 Completed
