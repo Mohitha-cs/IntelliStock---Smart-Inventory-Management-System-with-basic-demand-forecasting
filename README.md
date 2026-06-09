@@ -1,1 +1,1 @@
-# IntelliStock---Smart-Inventory-Management-System-with-basic-demand-forecasting
+# IntelliStock-Smart Inventory Management System with basic demand forecasting
