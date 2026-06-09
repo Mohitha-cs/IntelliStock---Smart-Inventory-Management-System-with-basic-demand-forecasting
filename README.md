@@ -4,13 +4,13 @@ easily track products, monitor stock levels, and record sales transactions throu
 By analyzing past sales data with Simple Linear Regression, the system can predict future demand, estimate
 when stock may run out, and provide timely low-stock alerts. In addition, it uses the Apriori algorithm to identify products that are frequently purchased together and offers reports and visualizations that support smarter business decisions.
 
-#Tech stack
+# Tech stack
 Python
 Streamlit
 SQLite3
 
-#Status
+# Status
 Completed
 
-#Author
+# Author
 Mohitha
